@@ -48,6 +48,7 @@ provider "google" {
   project = var.project_id
   region  = var.region
   zone    = var.zone
+  impersonate_service_account = "terraform@project-b485cc4d-bd88-46be-816.iam.gserviceaccount.com"
 }
 
 provider "google-beta" {
