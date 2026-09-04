@@ -1,7 +1,7 @@
 CloudKitchen — Personal & Educational Use License
 ==================================================
 
-Copyright (c) 2026 thirucloud <abc@gmail.com>
+Copyright (c) 2026 abc <abc@gmail.com>
 
 This Project — all source code, configuration files, Helm charts,
 Terraform modules, Kubernetes manifests, documentation, and diagrams
@@ -87,6 +87,6 @@ content reuse (videos, courses, paid writing) and commercial reuse
 require written permission.
 
 ——
-thirucloud
+abc
 <abc@gmail.com>
 https://github.com/vijaygiduthuri/cloudkitchen-app
