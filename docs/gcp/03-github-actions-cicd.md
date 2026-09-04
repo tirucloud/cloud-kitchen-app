@@ -147,7 +147,7 @@ Open **Settings → Secrets and variables → Actions** on the GitHub repo.
 
 | Variable         | Value                                  | Example                                                                                                       |
 | ---------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| `GCP_PROJECT_ID` | Your GCP project                       | `project-d31a3358-346c-40e8-bda`                                                                              |
+| `GCP_PROJECT_ID` | Your GCP project                       | `project-b485cc4d-bd88-46be-816`                                                                              |
 | `GCP_REGION`     | Region of the AR repo                  | `us-central1`                                                                                                 |
 | `AR_REPO`        | Name of the Artifact Registry repo    | `cloudkitchen-registry`                                                                                       |
 

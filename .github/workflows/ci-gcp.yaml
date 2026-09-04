@@ -21,7 +21,7 @@
 #     GITOPS_TOKEN     - (optional) PAT with `contents:write` if branch
 #                        protection blocks the default GITHUB_TOKEN
 #   Variables:
-#     GCP_PROJECT_ID   - e.g. project-d31a3358-346c-40e8-bda
+#     GCP_PROJECT_ID   - e.g. project-b485cc4d-bd88-46be-816
 #     GCP_REGION       - e.g. us-central1
 #     AR_REPO          - e.g. cloudkitchen-registry
 # =============================================================================

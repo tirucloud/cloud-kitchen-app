@@ -60,7 +60,7 @@ Configure under **Settings → Secrets and variables → Actions**.
 
 | Variable         | Required | Example                                | Description                                                                                                              |
 | ---------------- | -------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `GCP_PROJECT_ID` | Yes      | `project-d31a3358-346c-40e8-bda`       | GCP project hosting the Artifact Registry repo.                                                                          |
+| `GCP_PROJECT_ID` | Yes      | `project-b485cc4d-bd88-46be-816`       | GCP project hosting the Artifact Registry repo.                                                                          |
 | `GCP_REGION`     | Yes      | `us-central1`                          | Region of the Artifact Registry repo. Also used to compute the registry host (`<region>-docker.pkg.dev`).                |
 | `AR_REPO`        | Yes      | `cloudkitchen-registry`                | Name of the Artifact Registry **repository** (single repo, multiple images live inside it — one per service).            |
 
